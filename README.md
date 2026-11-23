@@ -1,16 +1,29 @@
-## Hi there 👋
+# Alex Tayson SOULIN
 
-<!--
-**tayson617/tayson617** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Développeur full-stack basé à Cotonou, Bénin.
 
-Here are some ideas to get you started:
+Je conçois des applications web avec Symfony et Laravel, des interfaces en JavaScript et React, et des bases de données relationnelles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+
+- Back-end : PHP 8, Symfony, Laravel
+- Front-end : JavaScript, React, HTML, CSS
+- Bases de données : MySQL, MariaDB, PostgreSQL, Oracle Database, SQLite
+- Environnement : Laragon
+- Outils : Git, GitHub, Windsurf, FileZilla, GanttProject
+
+## Projets
+
+- [Portfolio](https://mon-portfolio.totalh.net) : mes réalisations en ligne
+- LcsStagehub : gestion de stages
+- AnonymesDiscussion : plateforme de discussion
+- ABS Flow : plateforme de gestion de projets pour ABS Bénin (dépôt privé)
+
+## Disponibilité
+
+Ouvert aux opportunités d'emploi et aux missions freelance.
+
+## Contact
+
+- Email : alextaysonsoulin@gmail.com
+- LinkedIn : [alex-tayson-soulin](https://www.linkedin.com/in/alex-tayson-soulin-a854a43a8)
